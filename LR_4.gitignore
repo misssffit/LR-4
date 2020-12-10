@@ -11,4 +11,10 @@ doc/*.txt
 
 doc/**/*.pdf
 
+*.txt
+
+*.pdf
+
+
+
 
